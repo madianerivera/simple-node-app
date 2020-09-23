@@ -1,6 +1,7 @@
 # simple-node-app
 
 **Run**
+
 Install the packages
 ```bash
 $ npm install
